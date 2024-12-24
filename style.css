@@ -112,7 +112,7 @@ header {
 }
 
 .img-item:hover {
-  transform: scale(1.05);
+  transform: scale(1.08);
   filter: none;
   opacity: 1;
 }
